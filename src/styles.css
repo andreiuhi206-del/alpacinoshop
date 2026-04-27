@@ -155,5 +155,22 @@
   body {
     background-color: var(--color-background);
     color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-display);
+    letter-spacing: -0.02em;
+  }
+}
+
+@layer utilities {
+  .font-display { font-family: var(--font-display); }
+  .tricolor-bar {
+    background: linear-gradient(to right,
+      var(--italian-green) 0 33.33%,
+      var(--italian-cream) 33.33% 66.66%,
+      var(--italian-red) 66.66% 100%);
   }
 }

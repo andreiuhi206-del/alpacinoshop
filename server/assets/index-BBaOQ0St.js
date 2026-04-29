@@ -1,5 +1,5 @@
-import { r as reactExports, T as jsxRuntimeExports, _ as React } from "./worker-entry-DR5Y-Q-O.js";
-import "./router-Co-PLyCU.js";
+import { r as reactExports, T as jsxRuntimeExports, _ as React } from "./worker-entry-BC9JoSIq.js";
+import "./router-BQAGUVVt.js";
 import "node:events";
 import "node:async_hooks";
 import "node:stream/web";
@@ -3653,11 +3653,11 @@ const __iconNode = [
   ]
 ];
 const Twitter = createLucideIcon("twitter", __iconNode);
-const heroImg = "/assets/hero-italian-BLqS4t3C.jpg";
-const oilImg = "/assets/product-oliveoil-DysCrJvc.jpg";
-const pastaImg = "/assets/product-pasta-BwVppMtQ.jpg";
-const cheeseImg = "/assets/product-cheese-DFciXQqh.jpg";
-const sauceImg = "/assets/product-sauce-Dlfv4aZF.jpg";
+const heroImg = "/alpacinoshop/assets/hero-italian-BLqS4t3C.jpg";
+const oilImg = "/alpacinoshop/assets/product-oliveoil-DysCrJvc.jpg";
+const pastaImg = "/alpacinoshop/assets/product-pasta-BwVppMtQ.jpg";
+const cheeseImg = "/alpacinoshop/assets/product-cheese-DFciXQqh.jpg";
+const sauceImg = "/alpacinoshop/assets/product-sauce-Dlfv4aZF.jpg";
 const products = [{
   name: "Olio Extra Vergine",
   region: "Toscana",

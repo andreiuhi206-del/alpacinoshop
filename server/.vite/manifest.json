@@ -3,8 +3,8 @@
     "file": "assets/styles--P-cYNlv.css",
     "src": "/home/runner/work/alpacinoshop/alpacinoshop/src/styles.css"
   },
-  "_worker-entry-DR5Y-Q-O.js": {
-    "file": "assets/worker-entry-DR5Y-Q-O.js",
+  "_worker-entry-BC9JoSIq.js": {
+    "file": "assets/worker-entry-BC9JoSIq.js",
     "name": "worker-entry",
     "dynamicImports": [
       "tanstack-start-manifest:v",
@@ -39,12 +39,12 @@
     "src": "src/assets/product-sauce.jpg"
   },
   "src/router.tsx": {
-    "file": "assets/router-Co-PLyCU.js",
+    "file": "assets/router-BQAGUVVt.js",
     "name": "router",
     "src": "src/router.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-DR5Y-Q-O.js"
+      "_worker-entry-BC9JoSIq.js"
     ],
     "dynamicImports": [
       "src/routes/index.tsx?tsr-split=component"
@@ -54,12 +54,12 @@
     ]
   },
   "src/routes/index.tsx?tsr-split=component": {
-    "file": "assets/index-CN9euY_v.js",
+    "file": "assets/index-BBaOQ0St.js",
     "name": "index",
     "src": "src/routes/index.tsx?tsr-split=component",
     "isDynamicEntry": true,
     "imports": [
-      "_worker-entry-DR5Y-Q-O.js",
+      "_worker-entry-BC9JoSIq.js",
       "src/router.tsx"
     ],
     "assets": [
@@ -71,7 +71,7 @@
     ]
   },
   "tanstack-start-manifest:v": {
-    "file": "assets/_tanstack-start-manifest_v-B2oZTQ_G.js",
+    "file": "assets/_tanstack-start-manifest_v-5uOkSnec.js",
     "name": "_tanstack-start-manifest_v",
     "src": "tanstack-start-manifest:v",
     "isDynamicEntry": true
@@ -82,7 +82,7 @@
     "src": "virtual:cloudflare/worker-entry",
     "isEntry": true,
     "imports": [
-      "_worker-entry-DR5Y-Q-O.js"
+      "_worker-entry-BC9JoSIq.js"
     ]
   }
 }
